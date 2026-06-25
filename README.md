@@ -7,7 +7,6 @@ I build full-stack web applications, local AI agent systems, and automation pipe
 - 🚀 Deployed a full-stack **Smart Parking System** (Java Servlets + JSP + MySQL + Docker → Render) with role-based access control for students and teachers
 - 🤖 Built **Hermes** — a local AI agent system running on Ollama qwen3 / NVIDIA NIM with MCP tool routing and background process management
 - 🔁 Built an **n8n ATS automation pipeline** that scores resumes against job listings and auto-generates tailored drafts (NVIDIA NIM llama3-70b, Google Sheets API, Gmail API, Google Docs API)
-- 🏗️ Built a **Next.js 14 admin dashboard** with MUI v5 + Zustand for an internship assessment
 - 📜 Cisco Certified: **Python Essentials 1 (PCEP)** & **Python Essentials 2 (PCAP)**
 - 🧩 **LeetCode:** 70+ problems solved
 
@@ -30,7 +29,6 @@ I build full-stack web applications, local AI agent systems, and automation pipe
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
